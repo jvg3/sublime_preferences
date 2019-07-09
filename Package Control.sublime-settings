@@ -1,0 +1,26 @@
+{
+  "bootstrapped": true,
+  "downloader_precedence":
+  {
+    "osx":
+    [
+      "curl",
+      "urllib"
+    ]
+  },
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "1337 Color Scheme",
+    "Color Scheme - Creamy",
+    "Dockerfile Syntax Highlighting",
+    "Handlebars",
+    "JSX",
+    "Package Control",
+    "SCSS",
+    "Terraform",
+    "TrailingSpaces"
+  ]
+}

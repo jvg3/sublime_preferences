@@ -1,0 +1,21 @@
+{
+  "color_scheme": "Packages/Color Scheme - Creamy/Creamy.tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+    "frontend/node_modules",
+    "frontend/tmp",
+    "app/assets/ember",
+    "tmp/cache",
+    "terraform/hosted-spf-dns/.terraform",
+    "terraform/cp/.terraform"
+  ],
+  "font_size": 17,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
